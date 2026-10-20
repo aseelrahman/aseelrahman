@@ -1,3 +1,24 @@
+<div align="center">
+
+# Hey there! 👋 I'm Aseel
+
+### Computer Science Student | Full Stack Developer | NYPD Police Cadet
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Passionate+About+Software+Engineering;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+
+<br>
+
+I enjoy building **modern, secure, and user-focused web applications**  
+while continuously exploring software engineering and scalable systems.
+
+<br>
+
+<img src="https://img.shields.io/badge/📍_New_York_City-100E26?style=flat-square" />
+<img src="https://img.shields.io/badge/💻_Full_Stack_Development-100E26?style=flat-square" />
+<img src="https://img.shields.io/badge/🎓_CS_Student-100E26?style=flat-square" />
+
+</div>
+
 
 ## 🚀 About Me
 
