@@ -34,6 +34,5 @@ const aseel = {
 };
 
 // My Mission
-const mission = () =>
-  "Building secure, scalable, and user-focused applications.";
+const mission = () => "Building secure, scalable, and user-focused applications.";
 ```
