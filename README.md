@@ -4,7 +4,7 @@
 
 ### Computer Science Student | Full Stack Developer | NYPD Police Cadet
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Passionate+About+Software+Engineering;Learning+%26+Building+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=005bc0&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;Passionate+About+Software+Engineering;Learning+%26+Building+Every+Day" alt="Typing SVG" />
 
 <br>
 
