@@ -42,6 +42,7 @@ const mission = () => "Building secure, scalable, and user-focused applications.
 
 ## ❖ Tech Stack & Expertise
 
+
 <h3 align="center">◇ Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVASCRIPT-100E26?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
