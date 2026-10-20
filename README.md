@@ -8,14 +8,11 @@ const aseel = {
   currentRole: "NYPD Police Cadet",
   careerFocus: "Software Engineering",
 
-  specialization: [
-    "Full Stack Development", "Web Applications",
-    "Authentication & Authorization", "REST APIs"
-  ],
+  specialization: ["Full Stack Development", "Web Applications",
+                   "Authentication & Authorization", "REST APIs"],
 
   techStack: {
-    frontend: ["HTML", "CSS", "JavaScript", "React",
-               "Next.js", "Tailwind CSS"],
+    frontend: ["HTML", "CSS", "JavaScript", "React", "Next.js", "Tailwind CSS"],
     backend: ["Node.js", "Express.js", "REST APIs"],
     database: ["MongoDB"],
     authentication: ["Better Auth", "JWT"],
@@ -26,16 +23,11 @@ const aseel = {
 
   learningRoadmap: {
     fullStack: ["TypeScript", "NestJS", "OOP", "RBAC"],
-    databases: ["SQL", "PostgreSQL", "Drizzle ORM",
-                "Redis", "Vector Databases"],
-    softwareEngineering: [
-      "System Design", "Clean Code", "Multi-Tenant",
-      "SaaS Development", "Testing", "Scalability"
-    ],
-    aiEngineering: ["LLMs", "RAG", "LangChain",
-                    "AI Agents", "Embeddings"],
-    devOps: ["Docker", "NGINX", "AWS",
-             "GitHub Actions", "CI/CD", "VPS"]
+    databases: ["SQL", "PostgreSQL", "Drizzle ORM", "Redis", "Vector Databases"],
+    softwareEngineering: ["System Design", "Clean Code", "Multi-Tenant Architecture",
+                          "SaaS Development", "Testing", "Scalability"],
+    aiEngineering: ["LLMs", "RAG", "LangChain", "AI Agents", "Embeddings"],
+    devOps: ["Docker", "NGINX", "AWS", "GitHub Actions", "CI/CD", "VPS"]
   },
 
   goal: "Become a skilled Software Engineer"
@@ -43,5 +35,5 @@ const aseel = {
 
 // My Mission
 const mission = () =>
-  "Building secure, scalable, user-focused applications.";
+  "Building secure, scalable, and user-focused applications.";
 ```
